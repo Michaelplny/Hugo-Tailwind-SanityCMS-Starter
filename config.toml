@@ -1,0 +1,14 @@
+# Main Site Settings
+baseURL = "/"
+languageCode = "en-us"
+
+# Site Meta Settings
+title = "My New Hugo Tailwind Sanity Starter"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pharetra ornare lorem at congue. Morbi sit amet libero bibendum, sodales ligula eu, convallis neque. Quisque vitae quam et massa viverra accumsan. Etiam sodales felis in mi scelerisque, at efficitur ipsum pellentesque."
+
+
+
+[params]
+# Homepage Params:
+heading = "Michael Papacz-Capik"
+subheading = "Programmer, Designer, Entrepreneur, & Curious Person"
